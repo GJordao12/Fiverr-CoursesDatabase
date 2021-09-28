@@ -1,1 +1,1 @@
-# Fiverr-CoursesDatabase
+# Courses Database (Fiverr Project)
